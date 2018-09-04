@@ -64,5 +64,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.google.protobuf:protobuf-lite:3.0.1'//添加此行
     compile 'com.alibaba:fastjson:1.2.49'
-    compile 'com.alibaba:fastjson:1.1.70.android'
+    compile 'com.alibaba:fastjson:1.2.49.android'
 }
